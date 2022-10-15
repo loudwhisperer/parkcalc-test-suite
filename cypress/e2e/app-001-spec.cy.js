@@ -22,3 +22,4 @@ describe('app-001', () => {
     cy.get('#LeavingTime').contains('14:00')
   })
 })
+
