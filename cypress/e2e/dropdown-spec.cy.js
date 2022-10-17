@@ -1,5 +1,5 @@
 
-before(() => {
+beforeEach(() => {
 
   cy.visit('https://shino.de/parkcalc/')
 
