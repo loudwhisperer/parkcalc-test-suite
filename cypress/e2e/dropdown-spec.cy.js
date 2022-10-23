@@ -1,4 +1,5 @@
 
+//Here we expect every option chosen in the dropdown list for 'Choose a Parking Lot' to reflect the price defined underneath the calculator for each option
 beforeEach(() => {
 
   cy.visit('https://shino.de/parkcalc/')

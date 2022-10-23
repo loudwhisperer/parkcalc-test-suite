@@ -1,3 +1,4 @@
+//Here we expect each month given the same date and time does not give a different value from the previous month, we will test all 12 months 
 beforeEach(() => {
 
   cy.visit('https://shino.de/parkcalc/')

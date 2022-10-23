@@ -1,3 +1,5 @@
+//Here we validate that each option the dropdown menu reflects the prices given for every time period a price is marked, there is a test for the set of prices defined below the
+//calculator and just to double check prices given in 7 day increments will be checked at day 1, day 3 and day 7 as it is listed as free for the seventh day
 beforeEach(() => {
 
   cy.visit('https://shino.de/parkcalc/')
