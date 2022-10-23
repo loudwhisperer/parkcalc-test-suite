@@ -1,4 +1,4 @@
-//In lines 364-429 of the datetimepicker.js it specifies if you pick a time like 11 am it should automatically select PM for any time after 11:59 AM
+//In function setAmPm() of the datetimepicker.js it specifies if you pick a time like 11 am it should automatically select PM for any time after 11:59 AM
 //Here we expect when picking 11 am and 12 that the radio button selection for AM and PM should switch to PM at on (':nth-child(3) > :nth-child(2)')
 
 before(() => {
