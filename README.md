@@ -17,7 +17,7 @@ Date: 10/14/2022
 ## Table of Contents 
 
 - [1-0 Introduction](#1-0-introduction)
-- [2-0 Objectives and Tasks](#2-1-objectives-and-tasks)
+- [2-0 Objectives and Tasks](#2-0-objectives-and-tasks)
 	- 2-1 Objectives
 	- 2-2 Tasks
 - [3-0 Scope](#3-0-scope)
